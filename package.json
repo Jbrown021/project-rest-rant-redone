@@ -18,7 +18,9 @@
   "homepage": "https://github.com/Jbrown021/project-rest-rant-redone#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "mongoose": "^6.3.0"
+    "express-react-views": "^0.11.0",
+    "mongoose": "^6.3.0",
+    "react": "^18.0.0"
   },
   "devDependencies": {
     "dotenv": "^16.0.0",
